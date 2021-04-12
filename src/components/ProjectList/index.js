@@ -24,8 +24,14 @@ const ProjectList = ({ category }) => {
     {
       name: 'First Portfolio',
       category: "portfolio",
-      link: 'https://nrhuizar.github.io/personal-portfolio/',
+      link: 'https://sleepy-depths-32930.herokuapp.com/',
       repository: 'https://github.com/nrhuizar/personal-portfolio',
+    },
+    {
+      name: 'MyLitics',
+      category: "portfolio",
+      link: 'https://github.com/XXLZopes/Project-3',
+      repository: 'https://github.com/XXLZopes/Project-3',
     },
     {
       name: 'Zoo Keepr',
